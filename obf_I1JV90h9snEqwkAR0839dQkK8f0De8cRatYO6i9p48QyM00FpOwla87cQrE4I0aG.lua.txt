@@ -1,4 +1,4 @@
--- Merging Auto Parry functions from v1.4 into v1.5 with enhancements
+ -- Merging Auto Parry functions from v1.4 into v1.5 with enhancements
 
 getgenv().AutoParry = true
 getgenv().Visualize = false
