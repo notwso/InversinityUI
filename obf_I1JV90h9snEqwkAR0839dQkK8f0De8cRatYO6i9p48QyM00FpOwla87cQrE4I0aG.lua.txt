@@ -3,7 +3,7 @@
 -- Configuration
 getgenv().AutoParry = true
 getgenv().Visualize = false
-getgenv().parry_Range = 40 -- Adding parry range
+getgenv().parry_Range = 5 -- Adding parry range
 
 -- Services
 local players = game:GetService("Players")
